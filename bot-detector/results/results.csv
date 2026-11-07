@@ -1,0 +1,10 @@
+skenario,train,test,model,PR-AUC,ROC-AUC,F1
+dalam dataset1/train profil,dataset1/train,dataset1/train,LogReg,0.7634,0.7744,0.7889
+dalam dataset1/train profil,dataset1/train,dataset1/train,RandomForest,0.8143,0.8174,0.8019
+dalam dataset1/train profil,dataset1/train,dataset1/train,XGBoost,0.814,0.8174,0.8041
+dalam dataset1/train profil+teks,dataset1/train,dataset1/train,LogReg,0.8376,0.8373,0.7961
+dalam dataset1/train profil+teks,dataset1/train,dataset1/train,RandomForest,0.8907,0.8777,0.8325
+dalam dataset1/train profil+teks,dataset1/train,dataset1/train,XGBoost,0.8918,0.8799,0.8322
+dalam dataset1/train profil+teks+koordinasi,dataset1/train,dataset1/train,LogReg,0.8389,0.839,0.7997
+dalam dataset1/train profil+teks+koordinasi,dataset1/train,dataset1/train,RandomForest,0.8879,0.8774,0.8331
+dalam dataset1/train profil+teks+koordinasi,dataset1/train,dataset1/train,XGBoost,0.8908,0.8791,0.8309
