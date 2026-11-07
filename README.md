@@ -336,4 +336,4 @@ Periksa file `README`, `README.txt`, atau `LICENSE` di masing-masing folder data
 
 ## Catatan pengembangan
 
-README ini mendokumentasikan kondisi proyek berdasarkan file yang tersedia saat ini. Jika menambahkan model, sumber data, format kolom, atau langkah preprocessing baru, perbarui bagian struktur proyek, instalasi, penggunaan, dan keterbatasan secara bersamaan.
+README ini mendokumentasikan kondisi proyek berdasarkan file yang tersedia saat ini. Jika menambahkan model, sumber data, format kolom, atau langkah preprocessing baru, perbarui bagian struktur proyek, instalasi, penggunaan, dan keterbatasan secara bersamaan. 
