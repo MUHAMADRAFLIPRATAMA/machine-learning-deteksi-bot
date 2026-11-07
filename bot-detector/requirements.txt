@@ -5,5 +5,7 @@ scipy
 matplotlib
 xgboost
 openpyxl
+gradio
+joblib
 # Opsional IndoBERT: torch transformers sentencepiece
 # Opsional testing: pytest
