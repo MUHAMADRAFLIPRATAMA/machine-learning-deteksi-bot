@@ -1,0 +1,25 @@
+# Dataset
+data/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Hasil berupa tabel/data (gambar tetap ikut)
+results/*.csv
+results/*.txt
+
+# Model besar
+*.pkl
+*.h5
+*.pt
+*.joblib
+
+# Rahasia
+.env
