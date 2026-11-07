@@ -43,7 +43,7 @@ demo = gr.Interface(
     fn=predict_csv,
     inputs=gr.File(file_types=[".csv"], type="filepath", label="CSV akun tanpa label"),
     outputs=gr.Dataframe(label="Hasil prediksi"),
-    title="NusaBotGuard-ML",
+    title="Rafli deteksi bot",
     description="Sinyal statistik akun bot-like; bukan bukti identitas atau niat.",
 )
 
