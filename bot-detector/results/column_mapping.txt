@@ -1,0 +1,18 @@
+dataset1/train  (8278 baris, bot=56.1%)
+   label            <- label
+   followers        <- followers_count
+   friends          <- friends_count
+   statuses         <- statuses_count
+   favourites       <- favourites_count
+   listed           <- listed_count
+   verified         <- verified
+   default_profile  <- default_profile
+   default_image    <- default_profile_image
+   has_url          <- url
+   created_at       <- created_at
+   screen_name      <- screen_name
+   name             <- name
+   description      <- description
+   text             <- tweet
+   catatan: -
+
